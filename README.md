@@ -1,1 +1,1 @@
-# terraform-ibm-module-cyperf-app
+# module-cyperf-app/ibm
